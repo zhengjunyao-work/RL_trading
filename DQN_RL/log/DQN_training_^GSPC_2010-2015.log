@@ -1,0 +1,92 @@
+[04/07/2022 16:28:26.675 3797973291.py: 69] Trading Object:              ^GSPC_2010-2015
+[04/07/2022 16:28:26.676 3797973291.py: 70] Trading Period:              1509 days
+[04/07/2022 16:28:26.676 3797973291.py: 71] Window Size:              10 days
+[04/07/2022 16:28:26.676 3797973291.py: 72] Training Episode:              10
+[04/07/2022 16:28:26.676 3797973291.py: 73] Model Name:              DQN
+[04/07/2022 16:28:26.676 3797973291.py: 74] Initial Portfolio Value: $50000
+[04/07/2022 16:28:34.615 3540025555.py:  3] n
+Episode: 1/10
+[04/07/2022 16:28:34.616 3540025555.py: 10] 
+ -----------------------------Period: 100/1509---------------
+[04/07/2022 16:30:18.899 3797973291.py: 69] Trading Object:              ^GSPC_2010-2015
+[04/07/2022 16:30:18.900 3797973291.py: 70] Trading Period:              1509 days
+[04/07/2022 16:30:18.900 3797973291.py: 71] Window Size:              10 days
+[04/07/2022 16:30:18.901 3797973291.py: 72] Training Episode:              10
+[04/07/2022 16:30:18.901 3797973291.py: 73] Model Name:              DQN
+[04/07/2022 16:30:18.901 3797973291.py: 74] Initial Portfolio Value: $50000
+[04/07/2022 16:30:19.879 3540025555.py:  3] n
+Episode: 1/10
+[04/07/2022 16:30:19.880 3540025555.py: 10] 
+ -----------------------------Period: 100/1509---------------
+[04/07/2022 16:30:26.653 3797973291.py: 69] Trading Object:              ^GSPC_2010-2015
+[04/07/2022 16:30:26.653 3797973291.py: 70] Trading Period:              1509 days
+[04/07/2022 16:30:26.653 3797973291.py: 71] Window Size:              10 days
+[04/07/2022 16:30:26.653 3797973291.py: 72] Training Episode:              10
+[04/07/2022 16:30:26.653 3797973291.py: 73] Model Name:              DQN
+[04/07/2022 16:30:26.653 3797973291.py: 74] Initial Portfolio Value: $50000
+[04/07/2022 16:30:47.471 3797973291.py: 69] Trading Object:              ^GSPC_2010-2015
+[04/07/2022 16:30:47.471 3797973291.py: 70] Trading Period:              1509 days
+[04/07/2022 16:30:47.471 3797973291.py: 71] Window Size:              10 days
+[04/07/2022 16:30:47.472 3797973291.py: 72] Training Episode:              10
+[04/07/2022 16:30:47.472 3797973291.py: 73] Model Name:              DQN
+[04/07/2022 16:30:47.472 3797973291.py: 74] Initial Portfolio Value: $50000
+[04/07/2022 16:30:48.266 3540025555.py:  3] n
+Episode: 1/10
+[04/07/2022 16:30:48.267 3540025555.py: 10] 
+ -----------------------------Period: 100/1509---------------
+[04/07/2022 16:32:51.823 3540025555.py:  3] n
+Episode: 1/10
+[04/07/2022 16:32:51.824 3540025555.py: 10] 
+ -----------------------------Period: 100/1509---------------
+[04/07/2022 16:32:53.526 3797973291.py: 69] Trading Object:              ^GSPC_2010-2015
+[04/07/2022 16:32:53.526 3797973291.py: 70] Trading Period:              1509 days
+[04/07/2022 16:32:53.526 3797973291.py: 71] Window Size:              10 days
+[04/07/2022 16:32:53.526 3797973291.py: 72] Training Episode:              10
+[04/07/2022 16:32:53.526 3797973291.py: 73] Model Name:              DQN
+[04/07/2022 16:32:53.527 3797973291.py: 74] Initial Portfolio Value: $50000
+[04/07/2022 16:32:54.125 3540025555.py:  3] n
+Episode: 1/10
+[04/07/2022 16:32:54.126 3540025555.py: 10] 
+ -----------------------------Period: 100/1509---------------
+[04/07/2022 16:34:18.089 3797973291.py: 69] Trading Object:              ^GSPC_2010-2015
+[04/07/2022 16:34:18.090 3797973291.py: 70] Trading Period:              1509 days
+[04/07/2022 16:34:18.090 3797973291.py: 71] Window Size:              10 days
+[04/07/2022 16:34:18.090 3797973291.py: 72] Training Episode:              10
+[04/07/2022 16:34:18.090 3797973291.py: 73] Model Name:              DQN
+[04/07/2022 16:34:18.090 3797973291.py: 74] Initial Portfolio Value: $50000
+[04/07/2022 16:34:18.979 3540025555.py:  3] n
+Episode: 1/10
+[04/07/2022 16:34:18.980 3540025555.py: 10] 
+ -----------------------------Period: 100/1509---------------
+[04/07/2022 16:34:19.076 def_function.py:147] 5 out of the last 6 calls to <function Model.make_predict_function.<locals>.predict_function at 0x7ffa45a21040> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[04/07/2022 16:37:47.179 3797973291.py: 69] Trading Object:              ^GSPC_2010-2015
+[04/07/2022 16:37:47.180 3797973291.py: 70] Trading Period:              1509 days
+[04/07/2022 16:37:47.180 3797973291.py: 71] Window Size:              10 days
+[04/07/2022 16:37:47.181 3797973291.py: 72] Training Episode:              10
+[04/07/2022 16:37:47.181 3797973291.py: 73] Model Name:              DQN
+[04/07/2022 16:37:47.181 3797973291.py: 74] Initial Portfolio Value: $50000
+[04/07/2022 16:37:48.390 3540025555.py:  3] n
+Episode: 1/10
+[04/07/2022 16:37:48.391 3540025555.py: 10] 
+ -----------------------------Period: 100/1509---------------
+[04/07/2022 16:37:48.517 def_function.py:147] 6 out of the last 7 calls to <function Model.make_predict_function.<locals>.predict_function at 0x7ffa45a0b040> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has experimental_relax_shapes=True option that relaxes argument shapes that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+[04/07/2022 17:08:01.293 3797973291.py: 69] Trading Object:              ^GSPC_2010-2015
+[04/07/2022 17:08:01.294 3797973291.py: 70] Trading Period:              1509 days
+[04/07/2022 17:08:01.294 3797973291.py: 71] Window Size:              10 days
+[04/07/2022 17:08:01.294 3797973291.py: 72] Training Episode:              10
+[04/07/2022 17:08:01.294 3797973291.py: 73] Model Name:              DQN
+[04/07/2022 17:08:01.294 3797973291.py: 74] Initial Portfolio Value: $50000
+[04/07/2022 17:08:13.213 34585235.py: 69] Trading Object:              ^GSPC_2010-2015
+[04/07/2022 17:08:13.213 34585235.py: 70] Trading Period:              1509 days
+[04/07/2022 17:08:13.213 34585235.py: 71] Window Size:              10 days
+[04/07/2022 17:08:13.213 34585235.py: 72] Training Episode:              10
+[04/07/2022 17:08:13.213 34585235.py: 73] Model Name:              DQN
+[04/07/2022 17:08:13.214 34585235.py: 74] Initial Portfolio Value: $50000
+[04/07/2022 17:08:13.838 3540025555.py:  3] n
+Episode: 1/10
+[04/07/2022 17:08:13.845 3540025555.py: 10] 
+ -----------------------------Period: 100/1509---------------
+[04/07/2022 17:11:10.663 12316164.py:  3] n
+Episode: 1/10
+[04/07/2022 17:11:10.665 12316164.py: 10] 
+ -----------------------------Period: 100/1509---------------
